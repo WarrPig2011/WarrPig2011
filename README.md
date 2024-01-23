@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me coding
-- 😄 Pronouns: I don't need to tell you my pronouns
+- 😄 Gender: Male
 - ⚡ Fun fact: I like coding
 
 <!---
